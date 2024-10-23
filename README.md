@@ -3,7 +3,7 @@
 Process first 900 frames of live camera feed and output csv file of all RGB values of all landmarks in .csv format.
 
 # .CSV Explanation
-`Frame` - The number of the respective frame (0 to 899)
+- `Frame` - The number of the respective frame (0 to 899)
 - `X` - Value of X coordinate
 - `Y` - Value of Y coordinate
 - `R` - Red colour intensity
