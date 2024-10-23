@@ -20,3 +20,6 @@ Process first 900 frames of live camera feed and output csv file of all RGB valu
 4. If pip not found error, ensure pip has been added to PATH.
 
 4. To run the app, use `python app.py` after navigating to the correct directory.
+
+# Output
+The output .csv file can be found in `/output/` directory. (saved as landmarks.csv)
